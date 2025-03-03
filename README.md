@@ -21,6 +21,8 @@ This repository was created to showcase my analytical and technical skills (Exce
    b. Uber Analysis
    
    c. Disney+Hotstar
+
+   d. Crafting & Compelling Website Analysis, Audit and Recommendations
    
 4. Certificate
 
@@ -71,3 +73,10 @@ This repository was created to showcase my analytical and technical skills (Exce
 **Skills:** Wordpress, power point presentation
 
 **Status:** Completed in 2024
+
+
+**Certificate**
+
+
+
+
