@@ -42,22 +42,22 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 **Repository:** https://github.com/pavi302568/Business-Analysis-Digital-Marketing-portfolio/blob/main/Uber_csv_Final%20Project.pbix
 
-**Description:**
+**Description:** Analyze and extract insights from Uber ride-sharing data to understand trends, customer preferences, and travel patterns. The insights aim to support business decisions and improve service quality.
 
-**Skills:**
+**Skills:** Excel, SQL, Power bi, Power point presentation
 
+**Status:** Completed in 2024
 
+**Disney+Hotstar**
 
+**Repository:** https://github.com/pavi302568/Business-Analysis-Digital-Marketing-portfolio/blob/main/Disney%2BHotstar.pbix
 
-**Status:**
+**Description:** Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends. This includes understanding the distribution of movies by genre, running times, release years, age ratings, and other attributes.
 
-**Repository:**
+**Skills:** Excel, SQL, Power bi, Power point presentation
 
-**Description:**
+**Status:** Completed in 2024
 
-**Skills:**
-
-**Status:**
 
 
 
