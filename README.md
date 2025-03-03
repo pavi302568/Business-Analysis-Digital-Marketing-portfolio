@@ -75,7 +75,12 @@ This repository was created to showcase my analytical and technical skills (Exce
 **Status:** Completed in 2024
 
 
-**Certificate**
+**Certificate**  https://github.com/pavi302568/Business-Analysis-Digital-Marketing-portfolio/blob/main/certificate.jpg
+
+**Contects**
+
+Linkedin: www.linkedin.com/in/pavithra-r-500069318
+Email: pavi302568@gmail.com
 
 
 
