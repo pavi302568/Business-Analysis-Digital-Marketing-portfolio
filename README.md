@@ -10,5 +10,25 @@ You can see more information I added resume below.
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, Word, PPT, Power BI, SQL and others).
 
-Contents
+**Contents**
+
+1. About me
+   
+2. Study Project
+
+   a. Phonepe
+   
+   b. Uber Analysis
+   
+   c. Disney+Hotstar
+   
+4. Certificate
+
+5. Contacts
+
+**Study Projects**
+
+**Phonepe**
+
+Repository: 
 
