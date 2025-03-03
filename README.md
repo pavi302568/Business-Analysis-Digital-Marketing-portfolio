@@ -40,7 +40,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 **Uber Analysis**
 
-**Repository:**
+**Repository:** https://github.com/pavi302568/Business-Analysis-Digital-Marketing-portfolio/blob/main/Uber_csv_Final%20Project.pbix
 
 **Description:**
 
