@@ -58,10 +58,16 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 **Status:** Completed in 2024
 
+**Crafting & Compelling Website Analysis, Audit and Recommendations**
 
+**Repository:** 
 
+   Website Link: https://wipro25.wordpress.com/
+   
+   Landing Page: https://1drv.ms/i/c/671bf49e6e67bcb0/ERK3Vr7biMJGmbStDvFZy5MB3vkkpfT7OJUGZoowdLKerw?e=J8ziaJ
 
+**Description:** Learn the key principles of digital marketing, focusing on website and landing page design. Grasp the inner workings of websites, including critical elements and design principles.
 
+**Skills:** Wordpress, power point presentation
 
-
-
+**Status:** Completed in 2024
